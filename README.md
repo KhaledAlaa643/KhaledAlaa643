@@ -1,8 +1,6 @@
-### Hi there, I'm Khaled Alaa! 👋
 
-Certainly! Here's an updated version of the description that includes the two projects you mentioned:
 
-👋 Hello, there! I'm Khaled Alaa, a passionate software engineer based in Cairo, Egypt. 💻
+👋 Hello, there! I'm Khaled Alaa, a passionate software engineer based in Cairo, Egypt. 
 
 ✨ Graduated from ITI, I hold a certification in Full Stack Web Development using Laravel and Angular. 🚀
 
