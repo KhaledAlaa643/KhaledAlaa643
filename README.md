@@ -1,4 +1,4 @@
-👋 Hello! 
+👋 ### Hi there, I'm Khaled Alaa! 
 
 
 I'm Khaled Alaa, a passionate software engineer based in Cairo, Egypt. 💻
@@ -21,5 +21,4 @@ This project showcases my ability to create interactive and dynamic web applicat
 ✉️ If you have any exciting projects or opportunities, feel free to reach out. Let's connect and bring ideas to life! 🤝
 
 Thank you for visiting my GitHub profile. Let's innovate and build amazing things together! 🚀✨
-### Hi there, I'm Khaled Alaa! 👋
 
