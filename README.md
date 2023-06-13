@@ -8,7 +8,7 @@ Certainly! Here's an updated version of the description that includes the two pr
 
 🌐 As a full stack developer, I bring life to web applications through seamless integration of the front-end and back-end technologies. My expertise lies in building robust and scalable solutions that cater to the unique needs of businesses and users. 💪
 
-🔧 I have a strong command over Laravel, Angular, HTML, CSS, and JavaScript. These tools empower me to create intuitive user interfaces and implement efficient server-side functionalities. 💡
+🔧 I have a strong command over Laravel, Angular, HTML, CSS, TypeScript, and JavaScript. These tools empower me to create intuitive user interfaces and implement efficient server-side functionalities. 💡
 
 🌟 In my journey to enhance my JavaScript skills, I successfully completed a project using HTML, CSS, and JavaScript. You can check it out [here](https://www.linkedin.com/posts/khaledalaa643_in-my-journey-to-enhance-my-javascript-skills-activity-7074375271461662721-oTOz?utm_source=share&utm_medium=member_desktop). This project showcases my ability to create interactive and dynamic web applications using core web technologies.
 
@@ -19,5 +19,13 @@ Certainly! Here's an updated version of the description that includes the two pr
 🌆 When I'm not coding, you can find me exploring the vibrant streets of Cairo or immersing myself in a good book. 📚
 
 ✉️ If you have any exciting projects or opportunities, feel free to reach out. Let's connect and bring ideas to life! 🤝
+
+
+Let's connect and collaborate on exciting projects! You can reach me via:
+
+- LinkedIn: [linkedin.com/in/khaledalaa643](https://www.linkedin.com/in/khaledalaa643/)
+- WhatsApp: [+201110400862](https://wa.me/201110400862)
+
+Feel free to get in touch! 🌟✨
 
 Thank you for visiting my GitHub profile. Let's innovate and build amazing things together! 🚀✨
