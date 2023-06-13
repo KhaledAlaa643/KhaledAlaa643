@@ -18,7 +18,12 @@
 
 ✉️ If you have any exciting projects or opportunities, feel free to reach out. Let's connect and bring ideas to life! 🤝
 
-![html](https://img.shields.io/badge/html-Full%20Stack%20Web%20Developer-green)
+![html](https://img.shields.io/badge/html-Full%20Stack%20Web%20Developer-blue)
+![css](https://img.shields.io/badge/css-Full%20Stack%20Web%20Developer-white)
+![javascript](https://img.shields.io/badge/javascript-Full%20Stack%20Web%20Developer-orange)
+![Angular](https://img.shields.io/badge/Angular-Full%20Stack%20Web%20Developer-red)
+![Laravel](https://img.shields.io/badge/Laravel-Full%20Stack%20Web%20Developer-grey)
+
 
 Let's connect and collaborate on exciting projects! You can reach me via:
 
