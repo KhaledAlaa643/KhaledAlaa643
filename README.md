@@ -18,6 +18,7 @@
 
 ✉️ If you have any exciting projects or opportunities, feel free to reach out. Let's connect and bring ideas to life! 🤝
 
+![html](https://img.shields.io/badge/html-Full%20Stack%20Web%20Developer-green)
 
 Let's connect and collaborate on exciting projects! You can reach me via:
 
