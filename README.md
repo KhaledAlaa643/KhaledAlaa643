@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**KhaledAlaa643/KhaledAlaa643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 👋 Hello, there! I'm Khaled Alaa, a passionate software engineer based in Cairo, Egypt. 💻
 
 ✨ Graduated from ITI, I hold a certification in Full Stack Web Development using Laravel and Angular. 🚀
@@ -22,4 +15,3 @@ Here are some ideas to get you started:
 ✉️ If you have any exciting projects or opportunities, feel free to reach out. Let's connect and bring ideas to life! 🤝
 
 Thank you for visiting my GitHub profile. Let's innovate and build amazing things together! 🚀✨
--->
