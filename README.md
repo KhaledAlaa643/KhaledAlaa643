@@ -21,7 +21,7 @@
 ![html](https://img.shields.io/badge/html-Full%20Stack%20Web%20Developer-blue)
 ![css](https://img.shields.io/badge/css-Full%20Stack%20Web%20Developer-white)
 ![javascript](https://img.shields.io/badge/javascript-Full%20Stack%20Web%20Developer-orange)
-![Angular](https://img.shields.io/badge/Angular-Full%20Stack%20Web%20Developer-red)
+![Angular](https://img.shields.io/badge/Angular-red)
 ![Laravel](https://img.shields.io/badge/Laravel-Full%20Stack%20Web%20Developer-grey)
 
 
