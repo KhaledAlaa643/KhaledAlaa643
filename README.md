@@ -18,7 +18,7 @@
 
 ✉️ If you have any exciting projects or opportunities, feel free to reach out. Let's connect and bring ideas to life! 🤝
 
-![FullStack](https://img.shields.io/badge/FullStack-black)
+![FullStack](https://img.shields.io/badge/Full%20Stack%20Web%20Developer-black)
 ![html](https://img.shields.io/badge/html-blue)
 ![css](https://img.shields.io/badge/css-white)
 ![javascript](https://img.shields.io/badge/javascript-orange)
