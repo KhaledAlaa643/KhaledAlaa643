@@ -23,7 +23,7 @@ Certainly! Here's an updated version of the description that includes the two pr
 
 Let's connect and collaborate on exciting projects! You can reach me via:
 
-- LinkedIn: [linkedin.com/in/khaledalaa643](https://www.linkedin.com/in/khaledalaa643/)
+- LinkedIn: [KhaledAlaa643](https://www.linkedin.com/in/khaledalaa643/)
 - WhatsApp: [+201110400862](https://wa.me/201110400862)
 
 Feel free to get in touch! 🌟✨
